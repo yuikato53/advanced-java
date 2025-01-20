@@ -6,9 +6,12 @@ public class Human {
     private String birthplace;
 
      // getter setter
-     public String getString(String name) {
+     public String getName() {
        return this.name;
      }
+    public void setName(String name){
+        
+    }
 
      
      }
